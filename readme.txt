@@ -1,5 +1,5 @@
 === WI Games widget Plugin ===
-Contributors: v-media, wi-games
+Contributors: WI Games, v-media, 
 Tags: wi-games, widget, arcade, html5, unity3d, fps, shooter, adventure, strategy, sport, fighting, race, gaming, media, flash, puzzles, admin, ajax, content, image, images, widgets, game, games, page, pages, bike, cars,call of duty, dragonball, survival, shooting, sport, sports, freecell, solitaire, mahjong, hockey, basketball, cards, fantasy, fun, pacman, chess, sonic, spiderman, ninja, car, gladiator, lost, puzzle, sudoku, arcade, embed, pgn, critic, critic games, games for girls
 Requires at least: 3.8
 Tested up to: 4.2.2
@@ -13,7 +13,7 @@ This plugin will help you to smoothly integrate WI Games widget to your website.
 
 WI Games Widget plug-in is created to simplify  installation of a widget which will allow your users to play hundreds of fascinating games without leaving your site as much as possible, and at the same time to gain additional income having placed in it the advertizing codes. (More info http://wi-games.com)
 
-==How To ==
+== How To ==
 
 After installation and activation of a plug-in you need to insert a code similar to this
 
