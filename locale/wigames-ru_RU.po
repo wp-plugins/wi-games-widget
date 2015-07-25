@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WI Games Widget Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-07 15:36+0100\n"
+"PO-Revision-Date: 2015-05-07 15:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: Artprima <ask@artprima.cz>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: D:\\Work\\coding\\projects\\artprima\\foodlist\\web"
+"\\wp-content\\plugins\\wi-games\n"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:59
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:60
+msgid "WI Games Settings"
+msgstr "Настройки WI Games"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:71
+msgid "WI Games WIDGET Settings"
+msgstr "Настройки виджета WI Games"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:72
+msgid ""
+"This plugin will help you to smoothly integrate WI Games widget to your "
+"website."
+msgstr ""
+"Данный плагин вам поможет быстро интегрировать виджет сервиса WI Games на "
+"свой сайт!"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:73
+msgid "Registration"
+msgstr "Регистрация"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:75
+msgid "Setup Instructions"
+msgstr "Инструкции по настройке"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:77
+msgid "F.A.Q."
+msgstr "FAQ"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:108
+msgid "Main"
+msgstr "Основное"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:111
+msgid "Widget Code"
+msgstr "Код виджета для вставки"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:119
+msgid "Extra"
+msgstr "Дополнительно"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:122
+msgid "Load jQuery"
+msgstr "Подключать jQuery"
+
+#: D:\Work\coding\projects\artprima\foodlist\web\wp-content\plugins\wi-games/src/WIGames/Admin/Settings.php:130
+msgid "Submit"
+msgstr "Сохранить"
+
+#~ msgid "Dashboard"
+#~ msgstr "Информация"
+
+#~ msgid "Menu Manager"
+#~ msgstr "Управление меню"
+
+#~ msgid "Section Manager"
+#~ msgstr "Управление секциями"
+
+#~ msgid "Menu Tags"
+#~ msgstr "Метки меню"
+
+#~ msgid "Foodlist Settings"
+#~ msgstr "Настройки Фудлиста"
+
+#~ msgid "Tags"
+#~ msgstr "Метки"
+
+#~ msgid "Foodlist"
+#~ msgstr "Фудлист"
+
+#~ msgid "Menu Items"
+#~ msgstr "Позиции Меню"
+
+#~ msgid "All Menu Items"
+#~ msgstr "Все позиции меню"
+
+#~ msgid "Menus"
+#~ msgstr "Меню"
+
+#~ msgid "All Menus"
+#~ msgstr "Все меню"
+
+#~ msgid "No menus found"
+#~ msgstr "Меню не найдены"
+
+#~ msgid "Menu Sections"
+#~ msgstr "Секции меню"
+
+#~ msgid "No menu sections found"
+#~ msgstr "Секции меню не найдены"
+
+#~ msgid "Tag"
+#~ msgstr "Метка"
+
+#~ msgid "No tags found."
+#~ msgstr "Метки не найдены."
