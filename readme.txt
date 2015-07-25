@@ -18,7 +18,7 @@ After installation and activation of a plug-in you need to insert a code similar
 
 `<script type="text/javascript" src="http://output.js.wigames.net/?hash=717109d9d379a24131347c7a0ecf3fd4"></script>`
 
-= Where to get a code=
+= Where to get a code =
 
 To receive a code you need to become authorized (http://backend.wigames.net/login/) or to create a new account (http://backend.wigames.net/register/) in the WI Games service. 
 

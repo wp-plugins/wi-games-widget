@@ -4,8 +4,8 @@ Plugin Name: WI Games plugin for WordPress
 Plugin URI: http://wi-games.ru/wordpress-plugin-install
 Description: Integrates WI Games widget support to WordPress
 Version: 1.0.4
-Author: Artprima
-Author URI: https://artprima.eu/
+Author: WI Games
+Author URI: https://wi-games.com
 */
 
 // registration link
